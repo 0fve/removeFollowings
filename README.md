@@ -1,4 +1,4 @@
-# removeFollowings
+# Remove Followings
 
 I made this project so i can easily clear my 1k+ followings
 i had a previous version where it just remove all of them
